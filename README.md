@@ -1,6 +1,6 @@
 # 🌊 SocialWave – Mini Social Post Application
 
-Full-stack social media app for the **3W Full Stack Internship Assignment**.
+Full-stack social media app .
 
 ---
 
@@ -139,4 +139,4 @@ npm run dev            # http://localhost:3000
 
 ---
 
-Contact: **hr@triplewsols.com**
+
