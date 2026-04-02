@@ -3,6 +3,7 @@
 Full-stack social media app .
 
 ---
+LIVE LINK - https://social-media-navy-eight.vercel.app
 
 ## 📸 Features
 
